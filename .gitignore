@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Built app bundle
+AppVolume.app/
+
+# Release archives
+*.zip
+
+# Xcode / Swift build output
+DerivedData/
+.build/
+*.xcarchive
+
+# User-specific Xcode settings
+xcuserdata/
+*.xcuserstate
+
+# SwiftPM
+Package.resolved
+
+# Temporary files
+*.tmp
+*.log
