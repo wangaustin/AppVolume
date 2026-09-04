@@ -1,3 +1,5 @@
+<img width="438" height="509" alt="appvolumescreenshot" src="https://github.com/user-attachments/assets/0ce112c6-ebf4-46ab-8146-8f15872a7ebe" />
+
 # AppVolume
 
 A lightweight macOS utility for controlling the volume of individual apps.
